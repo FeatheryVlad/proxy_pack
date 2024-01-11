@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§cTest RP 3 Bloody§fShine §bv1",
+    "description": "§aBy FeatheryCargo65 & §cKeenetic§a, 2024©",
+    "uuid": "44172142-adb2-11ee-a506-0242ac120002",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "_<",
+      "type": "resources",
+      "uuid": "6b172142-32fb-11ee-be56-0242ac120002",
+      "version": [1, 0, 0]
+    }
+  ]
+}
